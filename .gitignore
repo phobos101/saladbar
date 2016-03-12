@@ -3,6 +3,9 @@ logs
 *.log
 npm-debug.log*
 
+# Build directory
+build
+
 # Runtime data
 pids
 *.pid
@@ -13,9 +16,6 @@ lib-cov
 
 # Coverage directory used by tools like istanbul
 coverage
-
-# Grunt intermediate storage (http://gruntjs.com/creating-plugins#storing-task-files)
-.grunt
 
 # node-waf configuration
 .lock-wscript
