@@ -3,8 +3,8 @@ A light, clean and fresh web app template for the modern developer.
 
 ## Tech Used
 
-* Bootstrap Alpha 4.0.0#2 (modular SCSS)
-* SCSS
+* Bootstrap Alpha 4.0.0#2 (modular SCSS) - For beautiful web apps
+* SCSS - To make your life easier
 * Gulp.js - Task runner
 * Pleeease - Multiple CSS tools in one!
 * Babel - Use ES6 and ES7
@@ -13,7 +13,9 @@ A light, clean and fresh web app template for the modern developer.
 ## How to run
 
 1) Install gulp if you need to: `npm install gulp -g`
+
 2) Install the packages: `npm install`
+
 3) Run `gulp`
 
 Gulp-watch will automatically update the build directory as you work in `src`.
